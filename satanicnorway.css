@@ -1,1 +1,31 @@
+body {
+    background-color: darkgray;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+.nav-flex {
+    display: flex;
+    flex-direction: row;
+}
+.flex-center {;
+    justify-content: center;
+}
+.flex-right {
+    justify-content: right;
+}
+.flex-left {
+    justify-content: left;
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+.nav-logo {
+    width: 120px;
+    lenght: 120px;
+}
+
+
 
